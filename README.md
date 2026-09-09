@@ -1,29 +1,24 @@
 # 👋 Hi, I'm Sourav Mallick
 
-### AI/ML Enthusiast • Data Science • Python Developer • Backend Developer
+### Data Scientist • Python Developer • Backend Developer • AI/ML Enthusiast
 
-I'm an MCA graduate passionate about **Artificial Intelligence, Machine Learning, Data Science, and Backend Engineering**.
+I'm a Data Scientist with strong problem-solving skills in **Data Structures & Algorithms**, proficient in **Python and Java**, with hands-on experience in web development and database management.
 
-I enjoy understanding how modern AI systems work and turning what I learn into practical applications. I'm currently focused on strengthening my foundations in **Machine Learning, LLMs, RAG, AI Engineering, and backend development with Python/Django**.
-
-```text
-AI/ML → Data Science → LLMs & RAG → AI Engineering
-                         +
-              Python → Django → Backend
-```
+I'm interested in building practical applications using **Machine Learning, LLMs, backend technologies, and data-driven systems**.
 
 ---
 
 ## 🚀 About Me
 
-* 🎓 MCA Graduate
-* 🤖 Passionate about **AI, Machine Learning & Data Science**
-* 🐍 Strong interest in **Python development**
-* 🌐 Experienced with **Django backend development**
-* 🧠 Currently exploring **LLMs, RAG systems and AI applications**
-* 🔨 Building practical projects to strengthen my AI engineering skills
-* 📚 Continuously learning and experimenting with new technologies
-* 🎯 Long-term goal: Become a strong **AI/ML Engineer** capable of building production-ready AI systems
+* 🎓 Bachelor of Science in Computer Science from **Ravenshaw University**
+* 🎓 Master of Computer Applications at **Siksha ‘O’ Anusandhan (ITER)**
+* 🤖 Interested in **Machine Learning, Data Science & AI**
+* 🐍 Proficient in **Python and Java**
+* 🌐 Hands-on experience with **Django and React**
+* 🗄️ Familiar with **MySQL and Database Management**
+* 🧠 Strong foundation in **Data Structures & Algorithms and OOPS**
+* 💻 Experienced in backend development and industry-level projects
+* 🎯 Eager to contribute to impactful projects in a fast-paced tech environment
 
 ---
 
@@ -32,149 +27,126 @@ AI/ML → Data Science → LLMs & RAG → AI Engineering
 ### 👨‍💻 Programming
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
-![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge\&logo=postgresql\&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge\&logo=c\&logoColor=black)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge\&logo=openjdk\&logoColor=white)
 
 ### 🤖 AI / Machine Learning
 
-![Scikit Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge\&logo=scikit-learn\&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge\&logo=pandas\&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge\&logo=numpy\&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
 
 **Interests:**
 
-`Machine Learning` • `Deep Learning` • `NLP` • `LLMs` • `RAG` • `AI Agents` • `Model Evaluation` • `Feature Engineering`
+`Machine Learning` • `LSTM` • `Predictive Analysis` • `LLM Applications` • `Graph-Based Data Modeling`
 
-### 🌐 Backend Development
+### 🌐 Web Development
 
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge\&logo=react\&logoColor=61DAFB)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge\&logo=django\&logoColor=white)
-![Django REST](https://img.shields.io/badge/Django_REST_Framework-A30000?style=for-the-badge\&logo=django\&logoColor=white)
-![REST API](https://img.shields.io/badge/REST_API-005571?style=for-the-badge)
 
 ### 🗄️ Databases
 
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge\&logo=postgresql\&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge\&logo=mysql\&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge\&logo=sqlite\&logoColor=white)
 
-### ⚙️ Tools & Development
+### 🧠 Core Computer Science
 
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
+`Data Structures & Algorithms` • `OOPS` • `Database Management`
+
+### ⚙️ Tools
+
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge\&logo=docker\&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge\&logo=visual-studio-code\&logoColor=white)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge\&logo=intellij-idea\&logoColor=white)
 
 ---
 
 # 🤖 AI & Machine Learning
 
-I'm particularly interested in building applications that combine **machine learning with real-world software systems**.
+I'm particularly interested in building applications that combine **machine learning, data, and modern AI systems**.
 
 ### Areas I'm exploring
 
 * 🧠 Machine Learning
-* 🔬 Deep Learning
-* 💬 Natural Language Processing
-* 🧩 Large Language Models
-* 📚 Retrieval-Augmented Generation (RAG)
-* 🤖 AI Agents
-* 🔎 Semantic Search
-* 📊 Model Evaluation
-* ⚙️ AI Application Development
-* 🚀 Production-oriented AI Engineering
+* 📈 Predictive Analysis
+* 🔬 LSTM-based models
+* 💬 Large Language Models
+* 🕸️ Graph-Based Data Modeling
+* 🔎 Natural Language Query Systems
+* 🗃️ Structured Data Querying
+* 🛡️ AI Guardrails
 
-My focus isn't just on training models, but on understanding how to **integrate AI models into useful applications**.
+My focus is on understanding how AI and machine learning can be integrated into practical applications and real-world data systems.
 
 ---
 
 # 📌 Featured Projects
 
-## 🏋️ GymOS
+## 📈 Stock Prediction Portal
 
-A gym management platform designed to handle gym operations, users, branches, memberships, roles and other management workflows.
+A stock prediction portal developed using **Django, React, and a Machine Learning model based on the LSTM algorithm**.
 
-**Focus:** Backend architecture & full-stack application development
+**Key Features:**
+
+* 📊 Forecasts stock market trends using historical data
+* 🧠 Uses machine learning for predictive analysis
+* 🌐 Combines Django backend with React frontend
+* 📈 Uses an LSTM-based model for stock prediction
 
 **Technologies:**
 
-`Python` `Django` `REST API` `Database` `Git`
-
-🔗 **Repository:** [GymOS](https://github.com/amitesh-jena/GymOS)
+`Python` `Django` `React` `Machine Learning` `LSTM`
 
 ---
 
-## 🧠 RAG Mini Application
+## 🕸️ Graph-Based Data Modeling and Query System
 
-A Retrieval-Augmented Generation application designed to allow an AI system to retrieve relevant information from a knowledge base before generating an answer.
+A context graph system with an **LLM-powered conversational query interface** designed to unify fragmented business data such as orders, deliveries, invoices, and payments into an interconnected graph.
 
-**Concepts explored:**
+**Key Features:**
 
-* Document ingestion
-* Text chunking
-* Embeddings
-* Vector search
-* Retrieval
-* Context injection
-* LLM-based generation
+* 🕸️ Designed a graph model using Nodes and Edges
+* 🤖 Implemented an LLM-powered conversational interface
+* 💬 Translates natural language queries into structured queries such as SQL
+* 📊 Returns data-backed answers
+* 🛡️ Incorporated Guardrails to restrict queries to the provided dataset and domain
 
-**Focus:** Understanding how modern AI applications can combine **information retrieval + LLMs**.
+**Technologies:**
 
----
-
-## 🤖 AI / Machine Learning Projects
-
-I'm continuously building smaller projects to experiment with:
-
-* Machine Learning algorithms
-* Data preprocessing
-* Feature engineering
-* Model evaluation
-* NLP
-* LLM applications
-* RAG pipelines
-* AI-powered tools
-
-> More projects will be added as they reach a polished and documented state.
+`LLM` `Graph Data Modeling` `SQL` `Natural Language Processing` `AI Guardrails`
 
 ---
 
 # 🧠 Currently Learning
 
 ```text
+Data Science
+      ↓
 Machine Learning
-       ↓
-Deep Learning
-       ↓
-NLP & Transformers
-       ↓
-LLMs
-       ↓
-RAG & Vector Databases
-       ↓
-AI Agents
-       ↓
-AI Engineering & MLOps
+      ↓
+LLM Applications
+      ↓
+Graph-Based AI Systems
+      ↓
+Backend Development
+      ↓
+AI & Data Engineering
 ```
 
-I'm currently focusing on moving beyond simply **using AI APIs** toward understanding the architecture and engineering principles behind modern AI applications.
+I'm continuously working on improving my programming, problem-solving, machine learning, and software development skills through practical projects.
 
 ---
 
 # 💼 Experience
 
-### Django Backend Development
+### 🚀 DreamWave Innovations — Backend Developer Intern
 
-Worked with Django-based backend development and explored:
+* Worked on industry-level projects
+* Worked with team leads to develop and fix bugs
+* Gained insight into how real-world projects and software development work
 
-* REST API development
-* Backend architecture
-* Database integration
-* Authentication & authorization
-* API design
-* Git-based development workflows
+### 💻 PwC Launchpad Program
 
-I'm interested in combining these backend skills with AI to build **AI-powered backend systems and applications**.
+* Gained hands-on exposure to DBMS concepts and query optimization
+* Practiced Java programming fundamentals in a professional setting
+* Learned the basics of DevOps tools and IT infrastructure fundamentals
 
 ---
 
@@ -186,29 +158,38 @@ I'm interested in opportunities where I can work on:
 * 🧠 Machine Learning
 * 📊 Data Science
 * 🐍 Python Development
-* 🔬 AI Engineering
 * 🌐 Backend Development
-* 🧩 LLM / RAG Applications
+* 🗄️ Database Systems
+* 💬 LLM Applications
+* 🕸️ Graph-Based Data Systems
 
-I'm especially interested in roles where I can **learn from experienced engineers while contributing to real-world products**.
+I'm eager to contribute to impactful projects while continuing to learn and grow as a technology professional.
 
 ---
 
 # 📈 My Development Philosophy
 
-> **Learn → Build → Break → Debug → Improve → Repeat**
+> **Learn → Build → Debug → Improve → Repeat**
 
-I believe the best way to learn technology is to build with it.
+I believe the best way to learn technology is to combine strong fundamentals with practical projects.
 
-Instead of only following tutorials, I try to understand **why a system works, how its components interact, what can go wrong, and how it can be improved**.
+I continuously work on improving my **problem-solving, programming, machine learning, and software development skills**.
+
+---
+
+# 🏆 Achievements & Coding Profiles
+
+* 🧩 Solved **50+ problems on LeetCode**
+* ⭐ **3⭐ Coder on CodeChef**
+* ⭐ **3⭐ Coder on HackerRank**
 
 ---
 
 # 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=amitesh-jena&show_icons=true&theme=transparent&hide_border=true" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amitesh-jena&layout=compact&theme=transparent&hide_border=true" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=SouravM1710&show_icons=true&theme=transparent&hide_border=true" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SouravM1710&layout=compact&theme=transparent&hide_border=true" height="170"/>
 </p>
 
 ---
@@ -216,7 +197,7 @@ Instead of only following tutorials, I try to understand **why a system works, h
 # 🔥 Contributions
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=amitesh-jena&theme=transparent&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SouravM1710&theme=transparent&hide_border=true" />
 </p>
 
 ---
@@ -225,10 +206,10 @@ Instead of only following tutorials, I try to understand **why a system works, h
 
 I'm always interested in connecting with developers, AI/ML engineers, recruiters and people building interesting technology.
 
-* 💼 **LinkedIn:** [Add your LinkedIn]
-* 📧 **Email:** [Add your email]
+* 💼 **LinkedIn:** [Sourav Mallick](https://www.linkedin.com/in/sourav-mallick-4084bb268)
+* 📧 **Email:** [souravmallick148@gmail.com](mailto:souravmallick148@gmail.com)
 * 🌐 **Portfolio:** [Add your portfolio]
-* 🐙 **GitHub:** [@amitesh-jena](https://github.com/amitesh-jena)
+* 🐙 **GitHub:** [@SouravM1710](https://github.com/SouravM1710)
 
 ---
 
@@ -238,13 +219,14 @@ When I'm not coding, you'll probably find me:
 
 * ⚽ Playing or following football
 * 🏋️ Working out
-* 🧠 Exploring how modern AI systems work
+* 🧠 Exploring AI and Machine Learning
 * 📚 Learning something new
+* 💻 Solving programming problems
 
 ---
 
 <p align="center">
-  <i>"Build things. Break things. Understand why. Build them better."</i>
+  <i>"Learn. Build. Solve. Improve."</i>
 </p>
 
 <p align="center">

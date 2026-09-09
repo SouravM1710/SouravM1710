@@ -185,15 +185,6 @@ I continuously work on improving my **problem-solving, programming, machine lear
 
 ---
 
-# 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SouravM1710&show_icons=true&theme=transparent&hide_border=true" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SouravM1710&layout=compact&theme=transparent&hide_border=true" height="170"/>
-</p>
-
----
-
 # 🔥 Contributions
 
 <p align="center">
@@ -208,7 +199,7 @@ I'm always interested in connecting with developers, AI/ML engineers, recruiters
 
 * 💼 **LinkedIn:** [Sourav Mallick](https://www.linkedin.com/in/sourav-mallick-4084bb268)
 * 📧 **Email:** [souravmallick148@gmail.com](mailto:souravmallick148@gmail.com)
-* 🌐 **Portfolio:** [Add your portfolio]
+* 🌐 **Portfolio:** [Click Me :-)](https://my-portfolio-rosy-seven-15.vercel.app)
 * 🐙 **GitHub:** [@SouravM1710](https://github.com/SouravM1710)
 
 ---

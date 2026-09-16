@@ -20,6 +20,8 @@ I'm interested in building practical applications using **Machine Learning, LLMs
 * 💻 Experienced in backend development and industry-level projects
 * 🎯 Eager to contribute to impactful projects in a fast-paced tech environment
 
+![GitHub Snake](https://github.com/SouravM1710/SouravM1710/blob/output/github-snake-dark.svg)
+
 ---
 
 ## 🛠️ Tech Stack
